@@ -16,7 +16,7 @@
     "@openzeppelin/upgrades": "^2.8.0",
     "aws-sdk": "^2.457.0",
     "aws-serverless-express": "^3.3.6",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.17.2",
     "composable-middleware": "^0.3.0",
     "compression": "^1.7.2",
