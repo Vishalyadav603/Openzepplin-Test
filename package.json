@@ -34,7 +34,7 @@
     "express-session": "^1.15.5",
     "figlet": "^1.2.1",
     "formidable": "^1.2.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "joi": "^14.3.1",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.2.0",
