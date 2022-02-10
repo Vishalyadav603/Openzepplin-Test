@@ -48,7 +48,7 @@
     "multiparty": "^4.2.1",
     "node-notifier": "^5.1.2",
     "node-report": "^2.2.1",
-    "node-sass": "^4.8.1",
+    "node-sass": "^7.0.0",
     "nodemailer": "^6.1.1",
     "nodemon": "^1.19.0",
     "otplib": "^12.0.1",
